@@ -1,2 +1,2 @@
-# projetos2
+# projetos
 Aqui estarão todos os meus projetos reais
