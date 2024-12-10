@@ -1,9 +1,10 @@
 # 0 Criar um bot que manda de hora a hora.
-# 1 Clicar em minizar tela do VS.
 
 import pyautogui as py
 import time
+
 while True:
+    # 1 Clicar em minizar tela do VS
     py.PAUSE = 1
     py.click(x=1477, y=15)
     # 2 Tirar print com Ctrl win S ou outra opção do pyautogui
